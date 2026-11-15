@@ -1,0 +1,53 @@
+*                                           @Kusal5094
+
+/src/app/admin/teachers/                    @Kusal5094
+/src/app/admin/classes/                     @Kusal5094
+/src/app/admin/profile-requests/            @Kusal5094
+/src/app/admin/timetable/                   @Kusal5094
+/src/app/teacher/timetable/                 @Kusal5094
+/src/app/teacher/profile/                   @Kusal5094
+/src/app/api/admin/timetable/               @Kusal5094
+/src/app/api/admin/*teacher*/               @Kusal5094
+/src/components/admin/Teacher*              @Kusal5094
+/src/components/admin/AddTeacherModal.tsx   @Kusal5094
+/src/components/admin/ClassesClient.tsx     @Kusal5094
+/src/components/admin/TimetableClient.tsx   @Kusal5094
+/src/lib/timetableImportService.ts          @Kusal5094
+
+/supabase/                                  @kavinsu-1234
+/src/middleware.ts                          @kavinsu-1234
+/src/app/(auth)/                            @kavinsu-1234
+/src/app/api/auth/                          @kavinsu-1234
+/src/components/auth/                       @kavinsu-1234
+/.github/                                   @Kusal5094
+
+/src/app/admin/announcements/               @2022csc045-pixel
+/src/app/teacher/announcements/             @2022csc045-pixel
+/src/app/admin/chat/                        @2022csc045-pixel
+/src/app/teacher/chat/                      @2022csc045-pixel
+/src/app/admin/calendar/                    @2022csc045-pixel
+/src/app/api/admin/announcements/           @2022csc045-pixel
+/src/app/api/admin/calendar/                @2022csc045-pixel
+/src/app/api/chat/                          @2022csc045-pixel
+/src/app/api/notify/announcement/           @2022csc045-pixel
+/src/components/chat/                       @2022csc045-pixel
+/src/components/admin/AdminAnnouncementsClient.tsx   @2022csc045-pixel
+/src/components/teacher/TeacherAnnouncementsClient.tsx @2022csc045-pixel
+/src/components/teacher/NotificationBell.tsx @2022csc045-pixel
+/src/components/teacher/CalendarWidget.tsx  @2022csc045-pixel
+/src/lib/calendarService.ts                 @2022csc045-pixel
+
+/src/app/admin/inventory/                   @dulaakalanka2002-arch
+/src/app/item/                              @dulaakalanka2002-arch
+/src/components/public/                     @dulaakalanka2002-arch
+
+/src/app/admin/absences/                    @Kusal5094
+/src/app/admin/swaps/                       @Kusal5094
+/src/app/admin/disruptions/                 @Kusal5094
+/src/app/teacher/report-absence/            @Kusal5094
+/src/app/teacher/swaps/                     @Kusal5094
+/src/app/api/teacher/                       @Kusal5094
+/src/app/api/notify/substitute/             @Kusal5094
+/src/components/admin/AbsenceDetailClient.tsx @Kusal5094
+/src/components/admin/DirectCoverDrawer.tsx @Kusal5094
+/src/components/teacher/TeacherSwapsClient.tsx @Kusal5094
